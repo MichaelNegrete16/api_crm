@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Maicol Negrete (AC)",
+      "empresa": "Testing",
+      "email": "elpintajuega@gmail.com",
+      "telefono": "6545",
+      "notas": "Cliente recomendado",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen diseñpo",
+      "email": "akren@karen.com",
+      "telefono": "655445",
+      "notas": "Quiere estar en la empresa",
+      "id": 2
+    },
+    {
+      "nombre": "Show",
+      "empresa": "ShowCompany",
+      "email": "show@gmail.com",
+      "telefono": "",
+      "notas": "",
+      "id": 3
+    }
+  ]
+}
